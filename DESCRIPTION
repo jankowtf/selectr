@@ -1,0 +1,10 @@
+Package: selectr
+Type: Package
+Title: Convience functions for selecting elements from R objects
+Version: 0.1
+Date: 2015-05-05
+Author: Janko Thyson
+Maintainer: Janko Thyson <janko.thyson@gmail.com>
+Description: Facilitates the convenient selection of specific elements from
+    arbitrary R objects.
+License: GPL-2
